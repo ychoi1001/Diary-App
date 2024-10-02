@@ -11,7 +11,8 @@ The user interface is designed to be clean and minimalistic, focusing on usabili
 - **Logo**: The application features a custom logo designed in Figma, which enhances the visual identity of the application.
 - **Header and Footer**: Each page includes a consistent header and footer to provide easy navigation and branding.
 - **Fluid Layout**: Elements such as entries and buttons use percentages for widths rather than fixed pixel values, allowing them to scale with the screen size.
-- **CSS Media Queries**: Media queries are employed to adjust the layout and typography based on the screen size, enhancing accessibility on various devices.
+<img width="792" alt="Screenshot 2024-10-02 at 1 45 09 PM" src="https://github.com/user-attachments/assets/a4be0705-3c15-4369-8ef1-ca57861a63ae">
+
 - **Pagination**: Each page displays a maximum of three diary entries. If there are more than three entries, pagination is provided to navigate between pages. If there are three or fewer entries, pagination will not be displayed.
 <img width="1680" alt="Screenshot 2024-10-02 at 1 10 50 PM" src="https://github.com/user-attachments/assets/f168bba9-e9fe-4db7-901b-35bb779dcb04">
 
