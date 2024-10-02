@@ -20,10 +20,12 @@ The user interface is designed to be clean and minimalistic, focusing on usabili
 <img width="1680" alt="Screenshot 2024-10-02 at 1 25 01 PM" src="https://github.com/user-attachments/assets/1db53843-e263-44e9-a541-8e8216464b58">
 <img width="1680" alt="Screenshot 2024-10-02 at 1 25 11 PM" src="https://github.com/user-attachments/assets/53c2a78b-cb06-4e00-b254-d5715f42cad1">
 <img width="1680" alt="Screenshot 2024-10-02 at 1 25 20 PM" src="https://github.com/user-attachments/assets/2fc543ed-d0ef-4e4e-80eb-c119a3c8c304">
+
 - **View Diary Entries**: A clean layout for viewing all saved entries.
 - **Delete Diary Entries**: Users can remove any entry they no longer wish to keep.
 <img width="1680" alt="Screenshot 2024-10-02 at 1 23 35 PM" src="https://github.com/user-attachments/assets/f51a06c0-df32-4723-97d3-6bfe3b5d269b">
 <img width="1680" alt="Screenshot 2024-10-02 at 1 23 48 PM" src="https://github.com/user-attachments/assets/ebdaa06e-dcb6-4622-8575-c60e258955ae">
+
 - **Database Storage**: Diary entries are stored securely in a MySQL database.
 <img width="597" alt="Screenshot 2024-10-02 at 1 26 51 PM" src="https://github.com/user-attachments/assets/102de93d-3849-46b8-8f1e-01bb4fc3a1c5">
 
